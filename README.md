@@ -5,4 +5,4 @@ I've noticed definite years where the prices spiked mostly steady rising for the
 
 The libraries used for the project include Numpy, Pandas, Matplotlib, and Seaborn used for the general code and graphs. In addition, a variety of SKLearn libraries were also used like the Random Forest, One Hot Encoding, GridSearch, Train_Test_Split, Randomized Search, and Pipelines.
 
-Should you want to check the project out, you can do so here: https://medium.com/@adamvu1087/global-food-price-predictions-e2bd9fb130fa
+If you want to check the project out, you can do so here: https://medium.com/@adamvu1087/global-food-price-predictions-e2bd9fb130fa
